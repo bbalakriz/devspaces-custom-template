@@ -1,9 +1,9 @@
 [
   {
     "displayName": "NET 6.0",
-    "description": "MAS .NET Stack",
+    "description": "Custom .NET Stack",
     "tags": [
-      "MAS",
+      "Custom",
       ".NET",
       "App Team"
     ],
